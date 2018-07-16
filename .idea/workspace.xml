@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a185ccaf-e33d-41f3-81d3-6b68262f6c0f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxConsecutiveOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxAreaofIsland.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../IntelliJSpace/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../IntelliJSpace/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxConsecutiveOne.java" afterPath="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxConsecutiveOne.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/ToeplitzMatrix.java" afterPath="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/ToeplitzMatrix.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../IntelliJSpace/out/" />
@@ -16,24 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ReshapetheMatrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/ReshapetheMatrix.java">
+      <file leaf-file-name="MaxAreaofIsland.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxAreaofIsland.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="189">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxConsecutiveOne.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxConsecutiveOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -66,6 +55,8 @@
         <option value="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/ToeplitzMatrix.java" />
         <option value="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/ReshapetheMatrix.java" />
         <option value="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxConsecutiveOne.java" />
+        <option value="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/Graph.java" />
+        <option value="$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxAreaofIsland.java" />
       </list>
     </option>
   </component>
@@ -93,6 +84,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,10 +108,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,15 +127,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxConsecutiveOne">
-    <configuration name="IsUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MaxAreaofIsland">
+    <configuration name="MaxAreaofIsland" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="CC.array.*" />
+          <option name="PATTERN" value="Leetcode.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="CC.array.IsUnique" />
+      <option name="MAIN_CLASS_NAME" value="Leetcode.array.MaxAreaofIsland" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../IntelliJSpace" />
@@ -314,19 +305,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.IsUnique" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TransposeMatrix" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ToeplitzMatrix" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ReshapetheMatrix" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MaxConsecutiveOne" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TransposeMatrix" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ToeplitzMatrix" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ReshapetheMatrix" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MaxConsecutiveOne" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MaxAreaofIsland" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MaxConsecutiveOne" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReshapetheMatrix" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ToeplitzMatrix" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TransposeMatrix" />
-        <item index="4" class="java.lang.String" itemvalue="Application.IsUnique" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MaxAreaofIsland" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MaxConsecutiveOne" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReshapetheMatrix" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ToeplitzMatrix" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TransposeMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531515731704</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Max Consecutive One">
+      <created>1531600909077</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531600909077</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -385,7 +383,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1362661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13948497" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -407,15 +405,50 @@
     <MESSAGE value="Delete redundant info" />
     <MESSAGE value="Toeplitz Matrix" />
     <MESSAGE value="Reshape the matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reshape the matrix" />
+    <MESSAGE value="Max Consecutive One" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max Consecutive One" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxAreaofIsland.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/ReshapetheMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxConsecutiveOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxAreaofIsland.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/ReshapetheMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -428,7 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -436,7 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -444,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -462,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -478,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="487">
           <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -486,25 +513,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/Graph.java" />
+    <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxConsecutiveOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/ReshapetheMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="459">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxConsecutiveOne.java">
+    <entry file="file://$PROJECT_DIR$/../IntelliJSpace/src/Leetcode/array/MaxAreaofIsland.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="189">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>

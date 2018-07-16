@@ -7,7 +7,7 @@ import java.util.List;
 public class MaxConsecutiveOne {
 
     public static void main(String[] args){
-        int[] A = {1,0,1,1};
+        int[] A = {1,0,1,1,1,0,1};
         MaxConsecutiveOne obj = new MaxConsecutiveOne();
         int Max = obj.maxConsecutiveOne(A);
         System.out.println(Max);

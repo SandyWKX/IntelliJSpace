@@ -6,7 +6,7 @@ package Leetcode.array;
 public class ToeplitzMatrix {
 
     public static void main(String[] args){
-        int[][] A = {{1,2,3,4},{5,1,2,3},{9,5,1,2}};
+        int[][] A = {{1,2,3,4},{5,2,2,3},{9,5,1,2}};
         ToeplitzMatrix obj = new ToeplitzMatrix();
         obj.Toeplitz(A);
     }
